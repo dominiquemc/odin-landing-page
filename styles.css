@@ -77,9 +77,31 @@ button {
 /* CONTENT SECTION */
 
 content {
-    display: flex;
+    
 }
 
 content p {
     color: #1F2937;
+}
+
+.random-info {
+    text-align: center;
+}
+
+.random-info h2 {
+    font-size: 36px;
+    margin: 50px;
+}
+
+.image-content-container {
+    text-align: center;
+}
+
+.image-content {
+  display: inline-block;
+  width: 15%;
+}
+
+.image-content img {
+    border-radius: 20px;
 }
