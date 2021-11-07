@@ -42,8 +42,6 @@ a {
    height: 80vh;
    align-items: center;
    padding: 210px;
-   
-
   
 }
 
@@ -72,6 +70,7 @@ button {
     color: #F9FAF8;
     font-weight: 600;
     font-size: 1em;
+    cursor: pointer;
 }
 
 /* CONTENT SECTION */
@@ -181,3 +180,6 @@ footer {
     font-weight: 400;
     letter-spacing: 1px;
 }
+
+
+    
